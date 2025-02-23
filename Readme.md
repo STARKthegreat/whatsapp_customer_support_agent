@@ -11,7 +11,14 @@ A WhatsApp-based customer support agent built using Telex, Gemini API and the Wh
 4. From whatsapp, send a message to the test number, `+15550225491`
 5. Send your message and watch gemini reply in minutes.
 
-NB: Since the whatsapp API is in test mode, it will only reply to a few test numbers. I have attached a video demo of the test number I used. You can see the intended message to the user on your telex channel however. Thanks. 
+**NB: Since the whatsapp API is in test mode, it will only reply to a few test numbers. 
+I have attached a video demo of the test number I used. 
+You can see the intended message to the user on your telex channel however. 
+Thanks.**
+### DEMO VIDEO
+
+https://github.com/user-attachments/assets/f5b9be97-9213-4941-bebd-df3310b8e3de
+
 
 ## API DOCUMENTATION
 
